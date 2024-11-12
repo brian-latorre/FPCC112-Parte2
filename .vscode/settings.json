@@ -1,6 +1,8 @@
 {
     "files.associations": {
-        "*.psc": "pseudocode",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "istream": "cpp",
+        "xutility": "cpp"
     }
 }
